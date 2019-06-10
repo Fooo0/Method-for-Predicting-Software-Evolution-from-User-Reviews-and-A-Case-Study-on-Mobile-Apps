@@ -1,0 +1,8 @@
+com_abtnprojects_ambatana
+com_amazon_mShop_android_shopping
+com_c51
+com_contextlogic_wish
+com_ebay_mobile
+com_ecg_close5
+com_offerup
+com_walmart_android

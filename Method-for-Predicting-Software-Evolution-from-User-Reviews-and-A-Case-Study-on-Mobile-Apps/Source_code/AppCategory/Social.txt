@@ -1,0 +1,7 @@
+com_instagram_android
+com_oovoo
+com_pinterest
+com_sgiggle_production
+com_snapchat_android
+com_zhiliaoapp_musically
+me_msqrd_android

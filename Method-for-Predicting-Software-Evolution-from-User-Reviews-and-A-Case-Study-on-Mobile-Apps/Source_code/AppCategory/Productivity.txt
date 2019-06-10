@@ -1,0 +1,3 @@
+com_dotc_ime_latin_flash
+com_surpax_ledflashlight_panel
+com_tdr3_hs_android

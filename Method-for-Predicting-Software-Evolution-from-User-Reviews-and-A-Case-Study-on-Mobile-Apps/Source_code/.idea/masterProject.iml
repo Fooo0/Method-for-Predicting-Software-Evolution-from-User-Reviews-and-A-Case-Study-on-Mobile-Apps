@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/ALL_DATA" />
+      <excludeFolder url="file://$MODULE_DIR$/AppCategory" />
+      <excludeFolder url="file://$MODULE_DIR$/Data" />
+      <excludeFolder url="file://$MODULE_DIR$/Test" />
+      <excludeFolder url="file://$MODULE_DIR$/Word2VectorModel" />
+      <excludeFolder url="file://$MODULE_DIR$/analyse_correlation/Data" />
+      <excludeFolder url="file://$MODULE_DIR$/get_supporting_data/Data" />
+      <excludeFolder url="file://$MODULE_DIR$/preprocess_whats_new/2016_05_18" />
+      <excludeFolder url="file://$MODULE_DIR$/preprocess_whats_new/2016_07_18" />
+      <excludeFolder url="file://$MODULE_DIR$/preprocess_whats_new/2016_10_20" />
+      <excludeFolder url="file://$MODULE_DIR$/preprocess_whats_new/2017_03_29" />
+      <excludeFolder url="file://$MODULE_DIR$/preprocess_whats_new/Backup" />
+      <excludeFolder url="file://$MODULE_DIR$/preprocess_whats_new/Daily_rating" />
+      <excludeFolder url="file://$MODULE_DIR$/preprocess_whats_new/Daily_rating_O" />
+      <excludeFolder url="file://$MODULE_DIR$/preprocess_whats_new/WhatsNew" />
+      <excludeFolder url="file://$MODULE_DIR$/show_app/AppData" />
+      <excludeFolder url="file://$MODULE_DIR$/show_app/AppImage" />
+      <excludeFolder url="file://$MODULE_DIR$/show_app/WhatsNew" />
+      <excludeFolder url="file://$MODULE_DIR$/venv" />
+    </content>
+    <orderEntry type="jdk" jdkName="Python 3.6" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="PyDocumentationSettings">
+    <option name="renderExternalDocumentation" value="true" />
+  </component>
+  <component name="TestRunnerService">
+    <option name="projectConfiguration" value="pytest" />
+    <option name="PROJECT_TEST_RUNNER" value="pytest" />
+  </component>
+</module>

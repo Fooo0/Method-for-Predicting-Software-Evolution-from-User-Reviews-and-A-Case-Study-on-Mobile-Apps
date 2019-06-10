@@ -1,0 +1,848 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9f66dd0a-1bf4-4fc8-8a9b-935ec0601b68" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/masterProject$draw_feature_extraction_efficiency.coverage" NAME="draw_feature_extraction_efficiency Coverage Results" MODIFIED="1547559149445" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/get_supporting_data" />
+    <SUITE FILE_PATH="coverage/masterProject$pytest_in_test_follow_trend_py.coverage" NAME="pytest in test_follow_trend.py Coverage Results" MODIFIED="1545898499552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1940918869">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="130" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.13" value="2" />
+          <entry key="project.open.time.15" value="3" />
+          <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.17" value="6" />
+          <entry key="project.open.time.18" value="18" />
+          <entry key="project.open.time.19" value="23" />
+          <entry key="project.open.time.20" value="18" />
+          <entry key="project.open.time.21" value="10" />
+          <entry key="project.open.time.22" value="10" />
+          <entry key="project.open.time.23" value="5" />
+          <entry key="project.open.time.24" value="3" />
+          <entry key="project.open.time.25" value="3" />
+          <entry key="project.open.time.26" value="2" />
+          <entry key="project.open.time.28" value="1" />
+          <entry key="project.open.time.33" value="2" />
+          <entry key="project.open.time.34" value="1" />
+          <entry key="project.open.time.4" value="3" />
+          <entry key="project.open.time.5" value="19" />
+          <entry key="project.open.time.6" value="5" />
+          <entry key="project.opened" value="137" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="367" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="367" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="Python Console" value="4955" />
+          <entry key="cluster_feature" value="15" />
+          <entry key="determain_k_for_k_means" value="1" />
+          <entry key="draw_update_slot" value="240" />
+          <entry key="dummy" value="21" />
+          <entry key="filter_feature_for_content_prediction" value="2" />
+          <entry key="filter_feature_for_satisfactory_prediction" value="9" />
+          <entry key="filter_feature_for_time_prediction" value="150" />
+          <entry key="get_daily_rating" value="13" />
+          <entry key="get_user_reaction_lag" value="109" />
+          <entry key="predict_update_time" value="1" />
+          <entry key="predict_user_satisfactory" value="1" />
+          <entry key="py" value="48234" />
+          <entry key="serial_time_prediction" value="49" />
+          <entry key="show_prediciton_accuracy" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="21" />
+          <entry key="Python" value="53780" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts" />
+    </session>
+    <session id="-571287158">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.21" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main/extract_feature.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="7128">
+              <caret line="307" column="13" selection-start-line="307" selection-start-column="13" selection-end-line="307" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main/cluster_feature.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="888">
+              <caret line="46" column="7" selection-start-line="46" selection-start-column="7" selection-end-line="46" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main/class_defination.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2424">
+              <caret line="109" column="27" selection-start-line="109" selection-start-column="27" selection-end-line="109" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main/serial_time_prediction.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="768">
+              <caret line="35" column="13" lean-forward="true" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
+              <folding>
+                <element signature="e#76#85#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main/serial_content_prediction.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3120">
+              <caret line="135" column="40" selection-start-line="135" selection-start-column="40" selection-end-line="135" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/main/evaluate_serial_content_prediction.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5448">
+              <caret line="235" column="62" selection-start-line="235" selection-start-column="62" selection-end-line="235" selection-end-column="62" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/analyse_correlation/filter_feature_for_content_prediction.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4344">
+              <caret line="186" column="33" selection-start-line="186" selection-start-column="33" selection-end-line="186" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/get_supporting_data/draw_chessboard.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2664">
+              <caret line="115" column="4" lean-forward="true" selection-start-line="115" selection-start-column="4" selection-end-line="116" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main/find_high_rating_app.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1488">
+              <caret line="67" column="37" selection-start-line="67" selection-start-column="37" selection-end-line="67" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>ALL_MODEL_DIR</find>
+      <find>WH_KEY_DIR</find>
+      <find>REV_KEY_DIR</find>
+      <find>catg_name</find>
+      <find>print</find>
+      <find>valid_features</find>
+      <find>join</find>
+      <find>open</find>
+      <find>silhouette_score</find>
+      <find>reaction_lag</find>
+      <find>com_imangi_templerun2</find>
+      <find>cluster_all</find>
+      <find>CLUSTERNUM</find>
+      <find>CLUSTER_DATA_DIR</find>
+      <find>WhatsNew</find>
+      <find>CLUSTER_DETAIL_PATH</find>
+      <find>get_higher_rating_app</find>
+      <find>predict_one_app</find>
+      <find>dates_by_day</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/order_source/order_source_data.py" />
+        <option value="$PROJECT_DIR$/get_supporting_data/draw_update_slot_cdf.py" />
+        <option value="$PROJECT_DIR$/preprocess_whats_new/filter_whats_new.py" />
+        <option value="$PROJECT_DIR$/preprocess_whats_new/gather_whats_new.py" />
+        <option value="$PROJECT_DIR$/preprocess_whats_new/remove_extra_app.py" />
+        <option value="$PROJECT_DIR$/show_app/draw_app_data.py" />
+        <option value="$PROJECT_DIR$/main/util_tools.py" />
+        <option value="$PROJECT_DIR$/../../Anaconda3/Lib/site-packages/tsfresh/feature_selection/significance_tests.py" />
+        <option value="$PROJECT_DIR$/../../Anaconda3/Lib/site-packages/sklearn/utils/validation.py" />
+        <option value="$PROJECT_DIR$/main/test_follow_trend.py" />
+        <option value="$PROJECT_DIR$/main/observe_follow_trend.py" />
+        <option value="$PROJECT_DIR$/main/get_relevant_features.py" />
+        <option value="$PROJECT_DIR$/main/extract_feature.py" />
+        <option value="$PROJECT_DIR$/main/.pytest_cache/serialize_feature_case.py" />
+        <option value="$PROJECT_DIR$/main/get_relative_feature.py" />
+        <option value="$PROJECT_DIR$/show_app/show_data_distribution.py" />
+        <option value="$PROJECT_DIR$/main/serialize_feature_case.py" />
+        <option value="$PROJECT_DIR$/get_supporting_data/serialize_feature_case.py" />
+        <option value="$PROJECT_DIR$/get_supporting_data/draw_k_result.py" />
+        <option value="$PROJECT_DIR$/main/teeeeee.py" />
+        <option value="$PROJECT_DIR$/get_supporting_data/draw_cheeboard.py" />
+        <option value="$PROJECT_DIR$/get_supporting_data/Data/draw_threshold_effect.py" />
+        <option value="$PROJECT_DIR$/get_supporting_data/record_prediction_excel.py" />
+        <option value="$PROJECT_DIR$/get_supporting_data/determain_k_for_k_means.py" />
+        <option value="$PROJECT_DIR$/main/get_relative_features.py" />
+        <option value="$PROJECT_DIR$/arrange_data/move_data.py" />
+        <option value="$PROJECT_DIR$/main/serial_content_prediction.py" />
+        <option value="$PROJECT_DIR$/get_supporting_data/show_stable_day.py" />
+        <option value="$PROJECT_DIR$/analyse_correlation/filter_feature_for_satisfactory_prediction.py" />
+        <option value="$PROJECT_DIR$/get_supporting_data/find_relation_between_experiment_data.py" />
+        <option value="$PROJECT_DIR$/get_supporting_data/gather_all_app_experiment_data.py" />
+        <option value="$PROJECT_DIR$/main/cluster_feature.py" />
+        <option value="$PROJECT_DIR$/get_supporting_data/draw_update_slot.py" />
+        <option value="$PROJECT_DIR$/get_supporting_data/draw_feature_extraction_efficiency.py" />
+        <option value="$PROJECT_DIR$/show_app/save_app_data.py" />
+        <option value="$PROJECT_DIR$/main/find_high_rating_app.py" />
+        <option value="$PROJECT_DIR$/preprocess_whats_new/get_daily_rating.py" />
+        <option value="$PROJECT_DIR$/main/predict_update_content_combine.py" />
+        <option value="$PROJECT_DIR$/get_supporting_data/find_relation_between_app_experiment_data.py" />
+        <option value="$PROJECT_DIR$/analyse_correlation/get_user_reaction_lag.py" />
+        <option value="$PROJECT_DIR$/get_supporting_data/draw_threshold_effect.py" />
+        <option value="$PROJECT_DIR$/get_supporting_data/show_prediciton_accuracy.py" />
+        <option value="$PROJECT_DIR$/get_supporting_data/draw_chessboard.py" />
+        <option value="$PROJECT_DIR$/main/predict_update_content.py" />
+        <option value="$PROJECT_DIR$/main/predict_user_satisfactory.py" />
+        <option value="$PROJECT_DIR$/analyse_correlation/filter_feature_for_content_prediction.py" />
+        <option value="$PROJECT_DIR$/analyse_correlation/filter_feature_for_time_prediction.py" />
+        <option value="$PROJECT_DIR$/main/predict_update_time.py" />
+        <option value="$PROJECT_DIR$/main/class_defination.py" />
+        <option value="$PROJECT_DIR$/main/serial_time_prediction.py" />
+        <option value="$PROJECT_DIR$/main/evaluate_serial_content_prediction.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="width" value="980" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="masterProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="masterProject" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="masterProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="masterProject" type="462c0819:PsiDirectoryNode" />
+              <item name="analyse_correlation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="masterProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="masterProject" type="462c0819:PsiDirectoryNode" />
+              <item name="get_supporting_data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="masterProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="masterProject" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="masterProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="masterProject" type="462c0819:PsiDirectoryNode" />
+              <item name="preprocess_whats_new" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="masterProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="masterProject" type="462c0819:PsiDirectoryNode" />
+              <item name="show_app" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Anaconda3/Lib/site-packages" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings>
+        <option name="useSoftWraps" value="true" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\programming\workspacePycharm\masterProject\get_supporting_data" />
+      <recent name="D:\programming\workspacePycharm\masterProject\main" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.evaluate_serial_content_prediction">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="masterProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="draw_chessboard" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="masterProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/get_supporting_data" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/get_supporting_data/draw_chessboard.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="evaluate_serial_content_prediction" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="masterProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/main" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main/evaluate_serial_content_prediction.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="filter_feature_for_time_prediction" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="masterProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/analyse_correlation" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/analyse_correlation/filter_feature_for_time_prediction.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="predict_update_time" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="masterProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/main" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main/predict_update_time.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="serial_time_prediction" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="masterProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/main" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main/serial_time_prediction.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.serial_time_prediction" />
+      <item itemvalue="Python.predict_update_time" />
+      <item itemvalue="Python.filter_feature_for_time_prediction" />
+      <item itemvalue="Python.draw_chessboard" />
+      <item itemvalue="Python.evaluate_serial_content_prediction" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.evaluate_serial_content_prediction" />
+        <item itemvalue="Python.draw_chessboard" />
+        <item itemvalue="Python.serial_time_prediction" />
+        <item itemvalue="Python.predict_update_time" />
+        <item itemvalue="Python.filter_feature_for_time_prediction" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9f66dd0a-1bf4-4fc8-8a9b-935ec0601b68" name="Default Changelist" comment="" />
+      <created>1542613938251</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1542613938251</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="pytest_in_test_follow_trend_py - 2018.12.27 at 16h 15m 05s.xml">
+      <configuration name="pytest in test_follow_trend.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49892473" visible="true" weight="0.37198392" />
+      <window_info id="Structure" order="1" sideWeight="0.50107527" side_tool="true" weight="0.36260054" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3299566" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3357453" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39942113" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32706222" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50268096" side_tool="true" weight="0.30680174" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32706222" />
+      <window_info active="true" anchor="bottom" x="-42" y="521" width="1492" height="812" id="Python Console" order="12" sideWeight="0.49731904" visible="true" weight="0.45586106" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" x="0" y="0" width="1536" height="814" id="SciView" order="3" type="WINDOWED" weight="0.3297587" />
+      <window_info anchor="right" x="0" y="0" width="300" height="575" id="Documentation" order="4" side_tool="true" weight="0.15951742" />
+      <window_info anchor="right" id="Database" order="5" weight="0.3297587" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/main/get_relevant_features.py" />
+    <entry file="file://$PROJECT_DIR$/../../Anaconda3/Lib/site-packages/sklearn/model_selection/_validation.py" />
+    <entry file="file://$PROJECT_DIR$/../../Anaconda3/Lib/site-packages/sklearn/utils/metaestimators.py" />
+    <entry file="file://$PROJECT_DIR$/../../Anaconda3/Lib/selectors.py" />
+    <entry file="file://$PROJECT_DIR$/../../Anaconda3/Lib/site-packages/smart_open/smart_open_lib.py" />
+    <entry file="file://$PROJECT_DIR$/../../Anaconda3/Lib/urllib/parse.py" />
+    <entry file="file://$PROJECT_DIR$/../../Anaconda3/Lib/site-packages/gensim/models/utils_any2vec.py" />
+    <entry file="file://$PROJECT_DIR$/../../Anaconda3/Lib/site-packages/gensim/models/keyedvectors.py" />
+    <entry file="file://$PROJECT_DIR$/../../Anaconda3/Lib/site-packages/pandas/core/frame.py" />
+    <entry file="file://$PROJECT_DIR$/../../Anaconda3/Lib/site-packages/pandas/io/excel.py" />
+    <entry file="file://$PROJECT_DIR$/main/teeeeee.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" column="46" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_bundle/pydev_umd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="79">
+          <caret line="197" selection-start-line="197" selection-end-line="197" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/get_supporting_data/serialize_feature_case.py" />
+    <entry file="file://$PROJECT_DIR$/analyse_correlation/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/observe_follow_trend.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="936">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/util_tools.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-673">
+          <caret line="79" column="40" selection-start-line="79" selection-start-column="40" selection-end-line="79" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arrange_data/move_data.py" />
+    <entry file="file://$PROJECT_DIR$/get_supporting_data/record_prediction_excel.py" />
+    <entry file="file://$PROJECT_DIR$/get_supporting_data/draw_k_result.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/get_supporting_data/gather_all_app_experiment_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3216">
+          <caret line="137" column="23" selection-start-line="137" selection-start-column="23" selection-end-line="137" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/show_app/show_data_distribution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-586">
+          <caret line="15" column="38" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/show_app/draw_app_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2184">
+          <caret line="94" column="90" lean-forward="true" selection-start-line="94" selection-start-column="16" selection-end-line="94" selection-end-column="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/get_supporting_data/determain_k_for_k_means.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="370">
+          <caret line="173" column="41" lean-forward="true" selection-start-line="173" selection-start-column="41" selection-end-line="173" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Anaconda3/Lib/site-packages/pandas/core/series.py" />
+    <entry file="file://$PROJECT_DIR$/../../Anaconda3/Lib/site-packages/matplotlib/cm.py" />
+    <entry file="file://$PROJECT_DIR$/get_supporting_data/draw_update_slot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="154" column="24" selection-start-line="154" selection-start-column="24" selection-end-line="154" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/get_supporting_data/draw_feature_extraction_efficiency.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1080">
+          <caret line="48" column="24" selection-start-line="48" selection-start-column="24" selection-end-line="48" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/get_relative_features.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="73" column="51" lean-forward="true" selection-start-line="73" selection-start-column="51" selection-end-line="73" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/preprocess_whats_new/get_daily_rating.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="30" column="110" selection-start-line="30" selection-start-column="110" selection-end-line="30" selection-end-column="110" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/show_app/save_app_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="110" column="50" selection-start-line="110" selection-start-column="50" selection-end-line="110" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/get_supporting_data/show_stable_day.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="49" column="4" lean-forward="true" selection-start-line="49" selection-start-column="4" selection-end-line="49" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/predict_update_content_combine.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="121" column="45" selection-start-line="121" selection-start-column="45" selection-end-line="121" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/analyse_correlation/get_user_reaction_lag.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="231" column="15" selection-start-line="231" selection-start-column="15" selection-end-line="231" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/get_supporting_data/find_relation_between_app_experiment_data.py" />
+    <entry file="file://$PROJECT_DIR$/../../Anaconda3/Lib/site-packages/sklearn/metrics/classification.py" />
+    <entry file="file://$PROJECT_DIR$/get_supporting_data/draw_threshold_effect.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="936">
+          <caret line="42" column="35" selection-start-line="42" selection-start-column="35" selection-end-line="42" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/analyse_correlation/filter_feature_for_satisfactory_prediction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="24" column="4" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/get_supporting_data/show_prediciton_accuracy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="236" column="7" selection-start-line="236" selection-start-column="7" selection-end-line="236" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/predict_user_satisfactory.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1702">
+          <caret line="136" column="4" selection-start-line="136" selection-start-column="4" selection-end-line="136" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/predict_update_content.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="34" column="18" selection-start-line="34" selection-start-column="18" selection-end-line="34" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/predict_update_time.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2832">
+          <caret line="127" column="31" selection-start-line="127" selection-start-column="31" selection-end-line="127" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/analyse_correlation/filter_feature_for_time_prediction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1109">
+          <caret line="247" column="32" selection-start-line="247" selection-start-column="32" selection-end-line="247" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/extract_feature.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7128">
+          <caret line="307" column="13" selection-start-line="307" selection-start-column="13" selection-end-line="307" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/cluster_feature.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="888">
+          <caret line="46" column="7" selection-start-line="46" selection-start-column="7" selection-end-line="46" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/class_defination.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2424">
+          <caret line="109" column="27" selection-start-line="109" selection-start-column="27" selection-end-line="109" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/serial_time_prediction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="768">
+          <caret line="35" column="13" lean-forward="true" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
+          <folding>
+            <element signature="e#76#85#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/serial_content_prediction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3120">
+          <caret line="135" column="40" selection-start-line="135" selection-start-column="40" selection-end-line="135" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/analyse_correlation/filter_feature_for_content_prediction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4344">
+          <caret line="186" column="33" selection-start-line="186" selection-start-column="33" selection-end-line="186" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/get_supporting_data/draw_chessboard.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2664">
+          <caret line="115" column="4" lean-forward="true" selection-start-line="115" selection-start-column="4" selection-end-line="116" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/find_high_rating_app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1488">
+          <caret line="67" column="37" selection-start-line="67" selection-start-column="37" selection-end-line="67" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/evaluate_serial_content_prediction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5448">
+          <caret line="235" column="62" selection-start-line="235" selection-start-column="62" selection-end-line="235" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -1,0 +1,6 @@
+com_facebook_orca
+com_jb_gosms
+com_skype_raider
+com_whatsapp
+com_yahoo_mobile_client_android_mail
+kik_android

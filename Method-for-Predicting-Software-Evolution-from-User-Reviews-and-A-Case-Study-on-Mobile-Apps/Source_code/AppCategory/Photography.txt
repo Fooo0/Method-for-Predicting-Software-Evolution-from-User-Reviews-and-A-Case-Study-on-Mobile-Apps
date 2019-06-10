@@ -1,0 +1,3 @@
+com_google_android_apps_photos
+com_instagram_layout
+com_lightricks_facetune

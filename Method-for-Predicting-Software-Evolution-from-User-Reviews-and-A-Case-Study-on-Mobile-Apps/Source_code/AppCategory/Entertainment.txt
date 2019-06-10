@@ -1,0 +1,8 @@
+com_google_android_play_games
+com_hbo_hbonow
+com_hulu_plus
+com_imangi_templerun
+com_imangi_templerun2
+com_netflix_mediaclient
+com_verizonmedia_go90_enterprise
+mobi_ifunny

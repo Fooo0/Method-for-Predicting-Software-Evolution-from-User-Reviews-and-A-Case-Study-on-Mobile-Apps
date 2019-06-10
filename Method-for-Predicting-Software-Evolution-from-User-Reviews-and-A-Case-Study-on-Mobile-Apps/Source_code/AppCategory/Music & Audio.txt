@@ -1,0 +1,7 @@
+com_clearchannel_iheartradio_controller
+com_google_android_apps_youtube_music
+com_pandora_android
+com_smule_singandroid
+com_soundcloud_android
+com_spotify_music
+com_ultimateguitar_tabs

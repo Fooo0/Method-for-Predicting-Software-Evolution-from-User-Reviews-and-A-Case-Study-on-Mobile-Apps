@@ -1,0 +1,11 @@
+com_cleanmaster_mguard
+com_dianxinos_dxbs
+com_dianxinos_optimizer_duplay
+com_emoji_coolkeyboard
+com_gto_zero_zboost
+com_jiubang_alock
+com_lionmobi_battery
+com_lionmobi_powerclean
+com_psafe_msuite
+com_qihoo_security
+com_sec_android_easyMover
